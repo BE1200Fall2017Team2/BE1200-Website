@@ -1,2 +1,40 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fall 2017 BE1200 Team 2</title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css"/>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+	<script src='script.js'></script>
+</head>
+
+<body>
+<div class="container">
+    <a href="index.html">Home</a>
+    <a href="Team2.html">Team 2</a>
+    <div class="dropdown">
+        <button class="dropbtn">Projects</button>
+        <div class="dropdown-content">
+            <a href="Homework2.html">Homework #2</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+        </div>
+    </div>
+	<a href="Blog.html">Blog</a>
+    <a href="SiteMap.html">Site Map</a>
+</div>    
+
+</br>
+
+<div class="bodytext">
+    <div class="bodytext-curtain">
+        <h1 align="center">Lorem Ipsum</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum volutpat metus, at eleifend lacus mollis dictum. Cras dapibus quam et velit iaculis posuere. Fusce ante odio, blandit in nisl in, dictum pulvinar nisi. Vestibulum gravida sem urna, aliquam dictum enim tincidunt a. Duis consequat tincidunt vulputate. Aliquam vel elementum augue. Mauris tincidunt magna nisi, id hendrerit sapien ullamcorper at. In eu leo id massa commodo venenatis. Phasellus in porttitor diam.</p>
+		<p>Nam id velit eu nisl elementum tincidunt a quis nulla. Aenean mattis, felis eu fringilla volutpat, tortor sapien ornare tellus, non euismod nulla ex eu eros. Maecenas eu ligula non nisl ornare porta. Vestibulum cursus aliquet magna, sed volutpat metus semper a. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas dictum posuere turpis sed dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed metus odio, laoreet vel enim sed, cursus vestibulum nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque a consequat sem.</p>
+        <p>Donec nibh est, dignissim semper justo sit amet, venenatis convallis enim. Sed rutrum ornare nisl sit amet cursus. Aliquam facilisis feugiat justo blandit semper. Sed consequat ex nunc, sed accumsan arcu faucibus a. Quisque auctor leo ante, a molestie lectus tempus in. Donec malesuada ullamcorper ultrices. Sed risus diam, tempus id magna non, mollis ornare ex. Quisque lacinia purus quis nulla molestie scelerisque. Suspendisse potenti. Proin dui lacus, accumsan a ante at, ultricies ultricies nisi. Aliquam erat volutpat. Donec feugiat purus nibh, id consectetur sapien maximus et. Etiam ultrices erat sit amet lorem dapibus sagittis. Fusce nec justo turpis. Nullam molestie, est quis tempor porttitor, nulla ipsum molestie turpis, quis cursus diam lorem eu ligula.</p>
+        <p>Nunc fringilla tincidunt eros, eu ornare erat consectetur in. Nunc sit amet laoreet arcu, a sodales odio. Duis vulputate mattis dui vitae egestas. Curabitur ultrices blandit ipsum ut venenatis. Phasellus mi nulla, tincidunt vel elit et, finibus ultricies orci. Phasellus luctus est vel neque imperdiet efficitur. Etiam tempus dolor justo, vel consequat urna pretium quis. Donec luctus odio fringilla mi consectetur, id lobortis felis vestibulum. Praesent eget eros vehicula, ultrices lorem a, rhoncus quam. Maecenas ac tempus erat.</p>
+        <p>Etiam egestas cursus nisl, id finibus enim pretium eget. Donec suscipit turpis odio, a consequat tortor ultrices eget. Curabitur ut lorem interdum, pulvinar felis sit amet, volutpat diam. Sed molestie nibh odio, vitae condimentum orci vestibulum non. Quisque risus quam, tempus ac rutrum in, sagittis quis libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis lorem vitae ante dapibus euismod. Vestibulum lacus sapien, vehicula in velit vel, placerat feugiat elit. Maecenas condimentum felis quis viverra tempor. Cras sed ultricies nisl, a convallis erat. Curabitur eros turpis, feugiat vitae sagittis at, vulputate sit amet purus. Pellentesque volutpat libero orci, vitae feugiat orci sagittis vitae.</p> 
+    </div>    
+</div>
+
+</body>
+</html>
